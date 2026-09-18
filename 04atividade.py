@@ -19,3 +19,5 @@ valor_total = valor_morango + valor_maca
 if total_kg >= 10 or valor_total > 15:
     valor_total * 0.10
     print('O valor pago é:', 'R$', valor_total)
+else:
+    print('O valor pago é:', 'R$', valor_total)
